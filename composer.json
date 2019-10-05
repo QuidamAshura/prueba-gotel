@@ -1,6 +1,6 @@
 {
-  "require": {
+    "require": {
         "ext-gd": "*",
         "ext-memcached": "*"
-  }
+    }
 }
